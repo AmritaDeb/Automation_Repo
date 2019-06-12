@@ -1,0 +1,124 @@
+Scenario 1:
+1. Open any browser.
+2. Navigate to https://www.amazon.in/
+3. Hover on Your Orders
+4. Click on Start here
+5. Add your name, mobile no, email, password and click on continue
+6. Hover on Your Orders from home page
+7. Click on Sign in
+8. Verify that the new user account is created or not.
+
+Scenario 2:
+1. Open any browser.
+2. Navigate to https://www.amazon.in/
+3. Hover on Shop by category drop down
+4. Move to Women's Fashion
+5. Click on Western wear
+6. Select a category from left navigation menu, say Winterwear
+7. Click on Jacket under Shop by category
+8. Print the total count of the result of that page
+9. Print the total count of the result from all the pages
+10. Click on nth product
+11. Click on add to cart.
+12. Verify the product is added to the cart or not.
+
+Scenario 3:
+1. Open any browser.
+2. Navigate to https://www.amazon.in/
+3. Hover on Shop by category drop down
+4. Move to Women's Fashion
+5. Click on Western wear
+6. Select a category from left navigation menu, say Winterwear
+7. Click on Jacket under Shop by category
+8. Filter by size, color, material
+9. Sort the result based on price
+10. print the total count of the result
+11. Verify the filteration.
+12. Click on nth product
+13. Verify the same product is displayed or not
+14. Fetch the details of the product
+15. Click on add to cart and verify the product is added to the cart or not.
+
+Scenario 4:
+1. Open any browser.
+2. Navigate to https://www.amazon.in/
+3. Click on cart
+4. click on proceed to checkout
+5. Add a delivery address
+6. Choose your delivery speed and click on continue
+7. Select a payment method and continue with the payment gateway
+8. Hover on Your Orders
+9. Click on Your Orders
+10. Verify the order summary.
+
+Scenario 5:
+1. Open any browser.
+2. Navigate to https://www.amazon.in/
+3. Hover on Lists
+4. Click on create a wishlist
+5. Add a list name and click on create list
+6. click on Today's Deals
+7. click on nth product
+8. click on the drop down from the Add to wish list
+9. verify newly creaed wishlist
+10. Add the product to that wishlist
+11. verify the product is added to the wishlist or not.
+
+Scenario 6:
+1. Open any browser.
+2. Navigate to https://www.amazon.in/
+3. Login with your correct credential
+4. click on Sell from the navigation menu
+5. Choose a selling plan, click on Get Started under individual plan
+6. Fill all the required fields
+7. click on Post Your Ad
+8. Hover on Your Orders
+9. click on your seller account
+10. click on the ads
+11. verify the ad is posted or not
+
+Scenario 7:
+1. Open any browser.
+2. Navigate to https://www.amazon.in/
+3. Login with your correct credential
+4. click on Sell from the navigation menu
+5. Choose a selling plan, click on Click here to Register under Professional
+6. click on Sign up now
+7. Fill all the required fields and create a seller account
+8. Go back to the amazon services dashboard
+9. click on 'Existing Seller?Sign in' from navigation menu
+10. Login with the correct credential
+11. verify that the seller acoount is created or not.
+
+Scenario 8:
+1. Open any browser.
+2. Navigate to https://www.amazon.in/
+3. Scroll to the Today's Deals
+4. click on See all deals
+5. Select nth product
+6. Verify the End in: timer is active or not.
+
+Scenario 9:
+1. Open any browser.
+2. Navigate to https://www.amazon.in/
+3. click on All drop down
+4. select a category, click on Beauty
+5. enter eye conic in the search bar
+6. verify keyword search is working or not
+7. click on 1st 1 from the auto suggestion
+8. verify that product is there in the product listing page or not
+9. fetch the lowest price from the result
+10. click on that product
+11. add it to add to cart.
+
+Scenario 10:
+1. Open any browser.
+2. Navigate to https://www.amazon.in/
+3. click on All drop down
+4. select a category, click on Luggage & Bags
+5. enter trakking bags in the search bar
+6. verify all the result titles contains 'Trakking Bag' or not
+7. click on nth product
+8. fetch the title, price, total reviews, rating
+9. verify all the color suggestions are working properly
+10. add the product to the cart.
